@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Micro Technologies, 
-		Manglore,
+		Maanglore,
 		+91-9538775515
 		jkkiran06@gmail.com
 		<br>
